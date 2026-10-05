@@ -1,0 +1,49 @@
+<html>
+    <head>
+        
+        <style>
+            #d1 {
+                width:100px;
+                height:100px;
+                background-color:lightgray;
+                border: 5px solid black;
+                padding: 10px 50px;
+                margin-bottom: 20px;
+            }
+            #d2 {
+                border:1px solid black;
+                height: 50px;
+                width: 50px
+                margin: 20px;
+                border-radius: 10px;
+                
+            }
+            #d3 {
+                border:1px solid black;
+                height: 50px;
+                width: 50px;
+                margin: 30px;
+            }
+            #d4 {
+                border: 50px solid black;
+                height: 0px;
+                width: 0px;
+                margin: 20px;
+                border-color:red yellow green blue;
+                border-width: 20px 0px 60px 80px;
+            }
+            #d5 {
+                width: 0px;
+                height: 0px;
+                border: 
+            }
+    </style>
+</head>
+<body>
+    <div id="d1"></div>
+    <div id="d2"></div>
+    <div id="d3"></div>
+    <div id="d4"></div>
+    <div id="d5"></div>
+</body>            
+</html>        
